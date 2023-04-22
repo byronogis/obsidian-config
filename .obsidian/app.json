@@ -9,9 +9,9 @@
   "useTab": false,
   "tabSize": 2,
   "attachmentFolderPath": "assets",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "trashOption": "local"
 }
