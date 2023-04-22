@@ -2,7 +2,7 @@
 !.gitignore
 
 !/.obsidian
-/.obsidian/workspace
+/.obsidian/workspace*
 
 !/templates
 
